@@ -1,4 +1,4 @@
-<p style="font-size:100px;">Demon Slayer - Anime Website</p>
+<h1>Demon Slayer - Anime Website</h1>
 
 <img width="1897" height="908" alt="Screenshot 2026-05-23 093400" src="https://github.com/user-attachments/assets/78b41d28-793f-4363-a5a5-0ee38a343d22" />
 
