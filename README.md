@@ -1,6 +1,7 @@
 <h1>⚔️ Demon Slayer - Anime Website</h1>
 
-<img width="1897" height="908" alt="Screenshot 2026-05-23 093400" src="https://github.com/user-attachments/assets/78b41d28-793f-4363-a5a5-0ee38a343d22" />
+<img width="1672" height="941" alt="loader screenshot" src="https://github.com/user-attachments/assets/1da67b75-a94a-4e3a-92a8-b250733c2dab" />
+
 
 ## 🌍 About
 This project showcases the world and journey of characters from loser to legend of Demon Slayer through an interactive website.
